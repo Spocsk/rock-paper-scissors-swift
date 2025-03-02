@@ -3,7 +3,6 @@
 //  Rock-Paper-Scissor
 //
 //  Created by Dylan COUTO DE OLIVEIRA on 02/03/2025.
-//
 
 import SwiftUI
 
